@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.4.0</version>
+    <authors>Helvind</authors>
+    <owners>Helvind</owners>
+    <projectUrl>https://github.com/Helvind/tf-serving-sharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Compiled C# classes for building gRPC clients for TF-Serving</description>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>
