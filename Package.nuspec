@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
-    <version>1.4.0</version>
+    <id>tf-serving-sharp</id>
+    <version>1.5.0</version>
     <authors>Helvind</authors>
     <owners>Helvind</owners>
     <projectUrl>https://github.com/Helvind/tf-serving-sharp</projectUrl>
