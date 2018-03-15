@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>TensorFlowServingSharp</id>
-    <version>1.5.0</version>
+    <version>1.4.1</version>
     <authors>Helvind</authors>
     <owners>Helvind</owners>
     <projectUrl>https://github.com/Helvind/tf-serving-sharp</projectUrl>
